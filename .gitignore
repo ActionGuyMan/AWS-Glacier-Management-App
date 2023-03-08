@@ -1,0 +1,8 @@
+__pycache__/
+/storage/logs
+/storage/test-uploads
+/storage/output
+/venv
+.idea
+/build
+/dist
